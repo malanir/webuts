@@ -26,7 +26,7 @@ const Conten: React.FC = () => {
           </p>
           <div className="mt-8">
             <a href="#" className="flex items-center text-blue-600 font-semibold text-lg">
-              Learn more <FiArrowRight className="ml-2" />
+              Learn more <FiArrowRight />
             </a>
           </div>
         </div>
